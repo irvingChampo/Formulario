@@ -1,0 +1,12 @@
+button{
+    width: 35%;
+    background-color: transparent;
+    color: black;
+    margin: 2%;
+    border-radius: 10px;
+    border-bottom: solid 2px green;
+    border-right: solid 2px green;
+}
+button:hover{
+    background-color: greenyellow;
+}
